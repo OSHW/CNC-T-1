@@ -1,0 +1,29 @@
+
+Started importing sheet: Model
+
+Dimension's value differs from actual measurement:
+Type: Linear , Handle: 15A, Displayed Value: 866.000000, Actual Value: 1.732000
+Dimension's value differs from actual measurement:
+Type: Linear , Handle: 165, Displayed Value: 785.000000, Actual Value: 1.570000
+Dimension's value differs from actual measurement:
+Type: Linear , Handle: 16F, Displayed Value: 16.000000, Actual Value: 0.032000
+Dimension's value differs from actual measurement:
+Type: Linear , Handle: 1F4, Displayed Value: 14.000000, Actual Value: 0.140000
+Dimension's value differs from actual measurement:
+Type: Linear , Handle: 1FF, Displayed Value: 10.000000, Actual Value: 0.100000
+Dimension's value differs from actual measurement:
+Type: Linear , Handle: 209, Displayed Value: 8.000000, Actual Value: 0.080000
+Dimension's value differs from actual measurement:
+Type: Linear , Handle: 214, Displayed Value: 20.670000, Actual Value: 0.206726
+Dimension's value differs from actual measurement:
+Type: Linear , Handle: 21E, Displayed Value: 14.330000, Actual Value: 0.143274
+Dimension's value differs from actual measurement:
+Type: Linear , Handle: 246, Displayed Value: 20.000000, Actual Value: 0.200000
+Dimension's value differs from actual measurement:
+Type: Linear , Handle: 250, Displayed Value: 10.000000, Actual Value: 0.100000
+Dimension's value differs from actual measurement:
+Type: Linear , Handle: 25A, Displayed Value: 8.000000, Actual Value: 0.080000
+Dimension's value differs from actual measurement:
+Type: Linear , Handle: 264, Displayed Value: 18.000000, Actual Value: 0.180000
+
+Finished importing sheet: Model
